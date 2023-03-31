@@ -9,6 +9,7 @@
 
 .links a {
     text-decoration: none;
+    font: small-caps bold 24/1px sans-serif;
 }
 
 header {
