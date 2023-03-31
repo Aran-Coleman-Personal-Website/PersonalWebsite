@@ -1,6 +1,10 @@
 .links {
     float: right;
-    font: small-caps bold 24/1px sans-serif;
+    font: small-caps bold 24px/1 sans-serif;
+}
+
+.name {
+    font: small-caps bold 24px/1 sans-serif;
 }
 
 .links a {
