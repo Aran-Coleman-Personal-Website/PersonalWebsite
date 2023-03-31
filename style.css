@@ -1,9 +1,11 @@
 .links {
     float: right;
+    font: small-caps bold 24/1px sans-serif;
 }
 
 .links a {
     text-decoration: none;
+    font: small-caps bold 24/1px sans-serif;
 }
 
 header {
