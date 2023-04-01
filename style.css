@@ -1,6 +1,7 @@
 .links {
     float: right;
     font: small-caps bold 24px/1 sans-serif;
+    margin-top: 10px;
 }
 
 .name {
@@ -9,10 +10,51 @@
 
 .links a {
     text-decoration: none;
-    font: small-caps bold 24/1px sans-serif;
+    color: white
 }
 
 header {
     font-size: 2rem;
     padding: 0.5em 1em;
+}
+
+.twitter a {
+    text-decoration: none;
+    font: small-caps bold 24px/1 sans-serif;
+    color: white;
+    margin: 20px;
+}
+
+header, footer {
+    position: absolute;
+    background-color: rgb(44, 77, 112);
+    width: 100%;
+    color:white;
+}
+
+body{
+    margin:0;
+    padding: 0;
+}
+
+header {
+    height: 10vh;
+}
+
+footer {
+    height: 10vh;
+    bottom: 0;
+}
+
+footer h2{
+    position:absolute;
+    Left: 50%;
+}
+
+footer p{
+    position:absolute;
+    left: 53%;
+    bottom: 20px;
+    color: white;
+    font: small-caps bold 12px/1 sans-serif;
 }
