@@ -1,2 +1,6 @@
 # PersonalWebsite
-THE BEST WEBSITE EVER
+
+THE BEST WEBSITE
+
+Home Page:
+Welcome to Aran Coleman's personal website! The Home page features a beautiful blue boarder
